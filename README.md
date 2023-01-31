@@ -5,3 +5,4 @@ https://www.udemy.com/course/modeles-avances-des-series-temporelles-avec-keras-p
 https://www.udemy.com/course/modeles-avances-des-series-temporelles-avec-keras-partie-2/
 
 xcdcdcscsdc
+cqqcq
